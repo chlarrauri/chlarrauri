@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chris
 - 👀 I’m interested in learning new techs.
 - 🌱 I’m currently learning several things.
-- 💞️ I’m looking to collaborate on nothing, at least not now.
+- 💞️ I’m looking to collaborate on any topic.
 - 📫 How to reach me ... using linkedin.
 
 <!---
