@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Christian Larrauri.
 - 👀 I’m interested in learning new techs.
-- 🌱 I’m currently learning several things.
 - 💞️ I’m looking to collaborate on any topic.
 - 📫 You can reach me on linkedin.
 
